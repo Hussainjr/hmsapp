@@ -34,7 +34,4 @@ public class AWSS3Config {
         return s3client;
     }
 
-
-
-
 }
